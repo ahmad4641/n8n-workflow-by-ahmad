@@ -1,9 +1,6 @@
 # n8nworkflows.xyz
 
 Standalone and versionable archive of n8n workflows from the official [n8n.io/workflows](https://n8n.io/workflows) website. This repository allows you to preserve, version, and reuse workflow templates in minimal format, ready to be imported offline.
-
-[n8nworkflows.xyz](https://n8nworkflows.xyz)
-
 ---
 
 ## 📋 Table of Contents
@@ -14,7 +11,7 @@ Standalone and versionable archive of n8n workflows from the official [n8n.io/wo
 - [Workflows Summary](#-workflows-summary)
 - [License](#-license)
 
----
+
 
 ## 📁 Repository Structure
 
