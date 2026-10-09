@@ -1,13 +1,6 @@
 **n8nworkflow  by Ahmad**
 
-Standalone and versionable archive of n8n workflows from the official [n8n.io/workflows](https://n8n.io/workflows) website. This repository allows you to preserve, version, and reuse workflow templates in minimal format, ready to be imported offline.
 ## 📋 Table of Contents
-
-- [Repository Structure](#-repository-structure)
-- [Archived Workflow Format](#-archived-workflow-format)
-- [Usage](#-usage)
-- [Workflows Summary](#-workflows-summary)
-- [License](#-license)
 ## 📁 Repository Structure
 
 ```
@@ -26,49 +19,15 @@ n8nworkflows.xyz/
 ```
 
 Each workflow is isolated in its own folder to facilitate navigation, versioning, and individual import.
-
----
-
-## 🔗 Useful Links
-
-- 🌐 [n8nworkflows.xyz website](https://n8nworkflows.xyz)
-- 📖 [Official n8n Documentation](https://docs.n8n.io)
-- 💬 [n8n Community](https://community.n8n.io)
-- 🐙 [n8n on GitHub](https://github.com/n8n-io/n8n)
-
----
-
-## 📝 License
-
-This repository archives public workflows from [n8n.io/workflows](https://n8n.io/workflows). Each workflow retains its original license. Refer to individual metadata for more information.
-
-The archiving code and repository structure are licensed under [MIT](LICENSE).
-
----
-
 ## ⚠️ Disclaimer
 
 This project is **independent** and not officially affiliated with n8n. It is a personal initiative aimed at facilitating access to and preservation of public n8n workflows.
 
 ---
 
-**Made with ❤️ for the n8n community**
-
----
-
 ## 📄 Archived Workflow Format
 
-Each workflow folder contains **exactly 4 files**:
-
-| File | Description |
-|:---|:---|
-| **`readme.md`** | Complete workflow description in Markdown (original template's `readme` field) |
-| **`workflow.json`** | Raw workflow export in JSON format, ready to be imported into n8n |
-| **`metadata.json`** | Metadata: author (`user_*`), tags, creation date, public link to `https://n8n.io/workflows/<workflowId>` |
-| **`<slug-and-id>.webp`** | Workflow screenshot (hero image from Supabase `worklowscreenshot` bucket) |
-
----
-
+Each workflow folder contains **exactly 4 files**
 
 
 ## 📚 Workflows Summary (8502 workflows)
